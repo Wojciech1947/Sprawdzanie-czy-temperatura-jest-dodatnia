@@ -1,0 +1,1 @@
+# Sprawdzanie-czy-temperatura-jest-dodatnia
